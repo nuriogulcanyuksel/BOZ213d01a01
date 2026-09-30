@@ -6,7 +6,7 @@
 
 Dönem sonunda ağırlıklı ortalamayı hesaplanmasını sağlar.
 
-öğrencilerin %40 vize %60 final notları ile ders notunu hesaplar ve ders notubu harflendirir.
+öğrencilerin %40 vize %60 final notları ile ders notunu hesaplar ve ders notunu harflendirir.
 
 Çoğu üniversitede uygulanan en az 50 final barajını denetler.
 
