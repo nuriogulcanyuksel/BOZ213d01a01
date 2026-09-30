@@ -3,6 +3,9 @@ while True:
 
     vize = float(input("Vize notunuzu giriniz: "))
     final = float(input("Final notunuzu giriniz: "))
+    if vize < 0 or vize > 100 or final < 0 or final > 100:
+            print("Hata: Notlar 0-100 arasında olmalıdır!")
+            continue
 
     ortalama = (vize * 0.40) + (final * 0.60)
 
