@@ -1,2 +1,3 @@
-# Nesne-Tabanl-Programlama
-Nesne Tabanlı Programlama ders içerikleri
+Tanım
+
+Üniversite öğrencilerinin vize ve final notları bilgisi ile dersten geçme veya dersten kalma bilgisini aldıkları projedir.
